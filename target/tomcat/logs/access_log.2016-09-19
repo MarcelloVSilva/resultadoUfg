@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:33 -0300] "GET /ufg-inf-pw-2016-2 HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:34 -0300] "GET /ufg-inf-pw-2016-2/ HTTP/1.1" 304 - http-bio-9090-exec-4 197
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:34 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-5 0
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:36 -0300] "GET /ufg-inf-pw-2016-2/resultado HTTP/1.1" 200 364 http-bio-9090-exec-6 850
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:54 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=5 HTTP/1.1" 200 372 http-bio-9090-exec-7 5
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:23:57 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=6 HTTP/1.1" 200 371 http-bio-9090-exec-8 1
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:24:01 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=7 HTTP/1.1" 200 371 http-bio-9090-exec-9 4
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:24:28 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=7 HTTP/1.1" 200 371 http-bio-9090-exec-10 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:24:30 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=6 HTTP/1.1" 200 371 http-bio-9090-exec-10 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:25:13 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=1&nota=6 HTTP/1.1" 200 367 http-bio-9090-exec-4 70
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:25:23 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=0.75&nota=5.9 HTTP/1.1" 200 373 http-bio-9090-exec-4 3
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:25:27 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=0.75&nota=6 HTTP/1.1" 200 370 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2016:23:25:30 -0300] "GET /ufg-inf-pw-2016-2/resultado?nome=marecl&frequencia=0.74&nota=6 HTTP/1.1" 200 371 http-bio-9090-exec-7 3
